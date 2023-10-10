@@ -12,7 +12,7 @@ We chose the electrocardiogram (ECG) as the first case study. The figure overvie
 ## IFCLOUD
 
 * [54.166.213.222:8080/ifcloud/home](54.166.213.222:8080/ifcloud/home) (AWS EC2)
-* https://cloudecg-929832b5a0ba.herokuapp.com/ifcloud/home (Heroku)
+* https://ifcloud-fa72cbab4bbb.herokuapp.com/ifcloud/home (Heroku)
 
 ---
 
