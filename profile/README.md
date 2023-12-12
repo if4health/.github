@@ -19,5 +19,6 @@ We chose the electrocardiogram (ECG) as the first case study. The figure overvie
 ## CLOUDECG
 
 * http://cloudecg-env.eba-mau7x2gw.us-east-1.elasticbeanstalk.com/api-docs/ (AWS Elastic Beanstalk)
+* https://neo-fass-ecg-980c299a95ae.herokuapp.com/ (Heroku)
 
 
