@@ -7,7 +7,7 @@ We chose the electrocardiogram (ECG) as the first case study. The figure overvie
 ![Overview of if4health projects/repos.](https://github.com/if4health/.github/blob/main/if4health-projects-overview-2.png)
 
 
-## Temporary application links
+## Deployed application links
 
 - [CRUD API](https://biosignalinfhir.if4health.com.br/api-docs/) to stream and storage Biossignal in FHIR
 - [Processing API](https://ifcloud.if4health.com.br/ifcloud/home) to add new features to FHIR records by python script uploading
