@@ -9,16 +9,8 @@ We chose the electrocardiogram (ECG) as the first case study. The figure overvie
 
 ## Temporary application links
 
-## IFCLOUD
+- [CRUD API](https://biosignalinfhir.if4health.com.br/api-docs/) to stream and storage Biossignal in FHIR
+- [Processing API](https://ifcloud.if4health.com.br/ifcloud/home) to add new features to FHIR records by python script uploading
 
-* [54.166.213.222:8080/ifcloud/home](54.166.213.222:8080/ifcloud/home) (AWS EC2)
-* https://ifcloud-fa72cbab4bbb.herokuapp.com/ifcloud/home (Heroku)
-
----
-
-## CLOUDECG
-
-* http://cloudecg-env.eba-mau7x2gw.us-east-1.elasticbeanstalk.com/api-docs/ (AWS Elastic Beanstalk)
-* https://neo-fass-ecg-980c299a95ae.herokuapp.com/ (Heroku)
 
 
