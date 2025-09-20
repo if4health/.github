@@ -9,8 +9,10 @@ We chose the electrocardiogram (ECG) as the first case study. The figure overvie
 
 ## Deployed application links
 
-- [CRUD API](https://biosignalinfhir.if4health.com.br/api-docs/) to stream and storage Biossignal in FHIR
-- [Processing API](https://ifcloud.if4health.com.br/ifcloud/home) to add new features to FHIR records by python script uploading
+- [CRUD API](https://if4health.charqueadas.ifsul.edu.br/biofass/api-docs/) to stream and storage Biossignal in FHIR
+- [Processing API](https://if4health.charqueadas.ifsul.edu.br/ifcloud/home) to add new features to FHIR records by python script uploading
+- [Auth API](https://if4health.charqueadas.ifsul.edu.br/biofass/dashboard) to apply SMART on FHIR authorization and authentication protocol
+- [Gateway API](https://if4health.charqueadas.ifsul.edu.br/healthgate/login) to route requests from IoT devices and web-apps between the FHIR APIs
 
 
 
